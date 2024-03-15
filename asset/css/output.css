@@ -705,6 +705,10 @@ video {
   clear: none;
 }
 
+.m-7 {
+  margin: 1.75rem;
+}
+
 .mx-10 {
   margin-left: 2.5rem;
   margin-right: 2.5rem;
@@ -1925,6 +1929,10 @@ video {
 
 .bg-origin-content {
   background-origin: content-box;
+}
+
+.fill-current {
+  fill: currentColor;
 }
 
 .object-contain {
